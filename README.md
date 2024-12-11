@@ -4,9 +4,9 @@ This is a small demo of a Local RAG Question and Answering System with [Llama 3.
 
 Article to accompany project: [Fully Local RAG with Llama 3.2 & Marqo](https://marqo.ai/blog)
 
-<!-- <p align="center">
-    <a><img src="https://github.com/ellie-sleightholm/marqo-llama3_1/blob/main/assets/marqo_llama3_1_demo.gif"></a>
-</p> -->
+<p align="center">
+    <a><img src="https://github.com/ellie-sleightholm/marqo-llama-3.2-1B-rag/blob/main/assets/marqo_llama3_2_demo.gif"></a>
+</p>
 
 ## Setup and Installation
 I have also written an [article](https://marqo.ai/blog/) that walks through this project that I encourage you to read when getting started.
