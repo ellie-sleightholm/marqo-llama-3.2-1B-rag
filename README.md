@@ -14,7 +14,7 @@ I have also written an [article](https://marqo.ai/blog/) that walks through this
 ### Clone This Repository
 First clone this repository:
 ```
-git clone https://github.com/ellie-sleightholm/marqo-llama3_1.git
+git clone https://github.com/ellie-sleightholm/marqo-llama-3.2-1B-rag.git
 ```
 
 ### Frontend
